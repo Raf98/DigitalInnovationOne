@@ -1,12 +1,9 @@
 let greatestSpeed = 0;
-
 let L = parseInt(gets());
-
 let count = 1;
 
 while (count <= 3) {
   greatestSpeed = 0;
-
   let turtleSpeedStr = gets();
   let turtlesSpeed = turtleSpeedStr.split(' ');
 

@@ -3,7 +3,6 @@ let note;
 let notes = 0;
 
 
-
 while (countValidNotes < 2) {
   note = parseFloat(gets());
 
