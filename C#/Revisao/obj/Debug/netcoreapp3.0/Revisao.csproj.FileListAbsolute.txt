@@ -1,0 +1,11 @@
+/home/rafael/Documentos/DigitalInnovationOne/C#/Revisao/bin/Debug/netcoreapp3.0/Revisao
+/home/rafael/Documentos/DigitalInnovationOne/C#/Revisao/bin/Debug/netcoreapp3.0/Revisao.deps.json
+/home/rafael/Documentos/DigitalInnovationOne/C#/Revisao/bin/Debug/netcoreapp3.0/Revisao.runtimeconfig.json
+/home/rafael/Documentos/DigitalInnovationOne/C#/Revisao/bin/Debug/netcoreapp3.0/Revisao.runtimeconfig.dev.json
+/home/rafael/Documentos/DigitalInnovationOne/C#/Revisao/bin/Debug/netcoreapp3.0/Revisao.dll
+/home/rafael/Documentos/DigitalInnovationOne/C#/Revisao/bin/Debug/netcoreapp3.0/Revisao.pdb
+/home/rafael/Documentos/DigitalInnovationOne/C#/Revisao/obj/Debug/netcoreapp3.0/Revisao.csprojAssemblyReference.cache
+/home/rafael/Documentos/DigitalInnovationOne/C#/Revisao/obj/Debug/netcoreapp3.0/Revisao.AssemblyInfoInputs.cache
+/home/rafael/Documentos/DigitalInnovationOne/C#/Revisao/obj/Debug/netcoreapp3.0/Revisao.AssemblyInfo.cs
+/home/rafael/Documentos/DigitalInnovationOne/C#/Revisao/obj/Debug/netcoreapp3.0/Revisao.dll
+/home/rafael/Documentos/DigitalInnovationOne/C#/Revisao/obj/Debug/netcoreapp3.0/Revisao.pdb
